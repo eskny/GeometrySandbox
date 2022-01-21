@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GeometrySandbox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\GeometrySandboxEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\BaseGeometryActor.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometryHubActor.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\SandboxPawn.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\SandboxPlayerController.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandbox.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandboxGameModeBase.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\BaseGeometryActor.gen.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometryHubActor.gen.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandbox.init.gen.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\GeometrySandboxGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\SandboxPawn.gen.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\SandboxPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\Default.rc2.res"
+/OUT:"D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\UE4Editor-GeometrySandbox.lib"
+/INCLUDE:IMPLEMENT_MODULE_GeometrySandbox

@@ -1,0 +1,2 @@
+D:\Unreal Projects\GeometrySandbox\Intermediate\Build\Win64\UE4Editor\Development\GeometrySandbox\Definitions.GeometrySandbox.h
+D:\Unreal Projects\GeometrySandbox\Source\GeometrySandbox\GeometrySandbox.h
